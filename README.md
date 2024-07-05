@@ -10,7 +10,7 @@ From anaconda prompt go to destination folder and give the following command
 
 conda env create -f environment.yml
 
-Now activate the environment along with jupyter notebook
+Now activate the environment
  
 conda activate osti
 
